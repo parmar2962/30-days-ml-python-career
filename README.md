@@ -26,3 +26,13 @@ Tracking daily code, algorithm practice, machine learning pipelines, and job app
   * Inspected distributions, feature statistics, and correlations with Seaborn/Matplotlib.
   * Handled categorical encodings and feature scaling with Scikit-Learn (`StandardScaler`).
   * Uploaded complete analysis notebook to `EDA ML/`.
+ 
+    
+    ### Day 3: Nov 26, 2026 (Night Session)
+* **Focus:** NumPy Core Foundations & Multi-Dimensional Array Manipulation
+* **Completed & Logged:**
+  * Reviewed and validated fundamental array construction, dimensions (`ndim`), shapes, and data types.
+  * Executed comprehensive 1D and 2D matrix indexing and slicing drills (`arrays_indexing.ipynb`).
+  * Verified matrix boundary handling, 0-based coordinate indexing, and step slicing rules.
+  * Uploaded practice workbooks directly to repository tracking.
+* **Next Target:** Quick morning NumPy drill (20–30 mins), then kick off foundational Pandas and DataFrame data-wrangling workflows.
